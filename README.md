@@ -1,1 +1,1 @@
-<img align="right" alt="Coding" width="1280" src="[https://media3.giphy.com/media/6kbB1vpjYwjEK9QAef/giphy.gif](https://media2.giphy.com/media/S3tBva89keY4ZpHTom/giphy.gif?cid=790b761166bedcd4c38303e9122a808d36bbcb3ee409dca5&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="1920" src="https://media1.giphy.com/media/S3tBva89keY4ZpHTom/giphy.gif">
