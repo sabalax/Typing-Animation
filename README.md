@@ -1,1 +1,1 @@
-![giphy](https://user-images.githubusercontent.com/46824329/196643221-8f5f1d56-08ef-4a66-82f8-92a70d3589e3.gif)
+<img align="right" alt="Coding" width="1920" src="https://media2.giphy.com/media/S3tBva89keY4ZpHTom/giphy.gif?cid=790b761166bedcd4c38303e9122a808d36bbcb3ee409dca5&rid=giphy.gif&ct=g">
